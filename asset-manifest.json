@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmailMarketing/static/css/main.78c116a5.css",
+    "main.js": "/EmailMarketing/static/js/main.17b7b596.js",
+    "static/js/787.28cb0dcd.chunk.js": "/EmailMarketing/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/EmailMarketing/index.html",
+    "main.78c116a5.css.map": "/EmailMarketing/static/css/main.78c116a5.css.map",
+    "main.17b7b596.js.map": "/EmailMarketing/static/js/main.17b7b596.js.map",
+    "787.28cb0dcd.chunk.js.map": "/EmailMarketing/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c116a5.css",
+    "static/js/main.17b7b596.js"
+  ]
+}
