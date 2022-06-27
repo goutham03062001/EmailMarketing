@@ -59,9 +59,9 @@ function App() {
         justify-content-center
         py-sm-3
         '>
-          <CardActionArea imageSrc={"https://github.com/goutham03062001/EmailMarketing/blob/main/public/Images/pic1.jpg"} className="py-3 mt-3"/>
-          <CardActionArea imageSrc={"https://github.com/goutham03062001/EmailMarketing/blob/main/public/Images/pic2.jpg"} className="py-3 mt-3"/>
-          <CardActionArea imageSrc={"https://github.com/goutham03062001/EmailMarketing/blob/main/public/Images/pic3.jpg"} className="py-sm-3 my-sm-3"/>
+          <CardActionArea imageSrc={"Images/pic1.jpg"} className="py-3 mt-3"/>
+          <CardActionArea imageSrc={"Images/pic2.jpg"} className="py-3 mt-3"/>
+          <CardActionArea imageSrc={"Images/pic3.jpg"} className="py-sm-3 my-sm-3"/>
         </div>
       </div>
     </section>
