@@ -63,7 +63,7 @@ const  RecipeReviewCard=()=> {
       <CardMedia
         component="img"
         height="240"
-        image="images/pic1.jpg"
+        image="https://github.com/goutham03062001/EmailMarketing/blob/main/public/Images/pic1.jpg"
         alt="Paella dish"
       />
       <CardContent>
