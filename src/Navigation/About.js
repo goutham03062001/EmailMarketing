@@ -40,7 +40,7 @@ const About = () => {
             py-sm-3'>
                 <div className='col-lg-6 col-11 col-md-8 col-sm-10
                 w-100' data-aos="zoom-in">
-                    <img src="images/about.jpg" style={imageStyle}/>
+                    <img src="https://github.com/goutham03062001/EmailMarketing/blob/main/public/Images/about.jpg" style={imageStyle}/>
                 </div>
 
                 <div className='col-lg-6 col-10 col-md-4 col-sm-10'
